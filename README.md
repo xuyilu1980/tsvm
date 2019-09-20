@@ -1,2 +1,2 @@
-# tsvm
-semi-supervised algorithms
+# TSVM
+ semi-supervised algorithms 

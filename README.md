@@ -17,7 +17,9 @@ b) BCI competition IV data set IIa: You can download this set at http://www.bbci
 
 Then you can unzip them if needed, and copy each data set into the corresponding subdirectory in the "OriginalData" directory (located itself in "EEGdata"). 
 
-To randomly select some samples as training set and the remaining samples as test set, we put all samples into a total set. You can execute read_BCI_III_DSIVa.m or read_BCI_IV_DSIIa.m to obtain a total set for each subject.
+To randomly select some samples as training set and the remaining samples as test set, we put all samples into a total set. 
+Before you execute read_BCI_III_DSIVa.m or read_BCI_IV_DSIIa.m to obtain a total set for each subject, you should install Biosig.
+The version of Biosig we used is biosig4octmat-3.1.0.
 
 
 (3) functions:

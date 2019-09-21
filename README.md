@@ -23,7 +23,7 @@ The version of Biosig we used is biosig4octmat-3.1.0.
 
 
 (3) functions:
-Various usefull toolbox. Noted that before running matlab, you should install C compiler, for example: Microsoft Visual C++ 2013 Professional (C).
+Various usefull toolbox. Noted that before running matlab, you should install C compiler, for example: Microsoft Visual C++ 2013 Professional (C). Then you should add new environment variable with the name of "path" and the value of "...\tsvm\tsvm\functions\svm".
 
 (4) GeneratedData:
 The results were saved in this folder.
